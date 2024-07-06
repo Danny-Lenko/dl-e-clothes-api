@@ -18,6 +18,8 @@
     "api",
     "netlify"
   ],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "@graphql-codegen/cli": "^1.12.2",
     "@graphql-codegen/introspection": "1.12.2",
