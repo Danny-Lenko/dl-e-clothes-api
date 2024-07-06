@@ -1,5 +1,5 @@
 {
-  "name": "serverless-typescript-graphql-netlify-starter",
+  "name": "dl-e-clothes-api",
   "version": "1.0.0",
   "description": "A simple serverless GraphQL API built with TypeScript and deployed on Netlify.",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stemmlerjs/serverless-typescript-graphql-netlify-starter.git"
+    "url": "git+https://github.com/Danny-Lenko/dl-e-clothes-api.git"
   },
   "keywords": [
     "typescript",
@@ -18,12 +18,6 @@
     "api",
     "netlify"
   ],
-  "author": "Khalil Stemmler <khalil@apollographql.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/stemmlerjs/serverless-typescript-graphql-netlify-starter/issues"
-  },
-  "homepage": "https://github.com/stemmlerjs/serverless-typescript-graphql-netlify-starter#readme",
   "devDependencies": {
     "@graphql-codegen/cli": "^1.12.2",
     "@graphql-codegen/introspection": "1.12.2",
